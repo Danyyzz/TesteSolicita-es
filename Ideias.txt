@@ -1,0 +1,16 @@
+No index:
+    disponibilizar link para catalogo virtual
+    colocar quantidade e logo em seguida colocar a unidade de medida
+    Nome Completo
+    Nome do queijo (a pessoa digita? Muitos itens para colocar com filtro)
+    Fazer propaganda com alguns queijos, dando recomendações
+
+    No futuro quem sabe fazer um catologo com a descrição de cada item para 
+    que o funcionário possa saber como é o queijo.
+
+No InterfaceHost:
+    Acesso aos valinhos enviados em um determinado período de tempo
+    Filtro por data
+    Filtro por Nome da pessoa
+    Filtro por Item
+    

@@ -1,0 +1,17 @@
+body{
+    background-image: url(Templates/Background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    backdrop-filter: blur(3px);
+    height: 100%;
+    margin: 0;
+}
+
+.navbar{
+    background-color: rgb(231, 251, 230);
+}
+
+#LogoNacon > img{
+    height: 45px;
+    width: 150px;
+}

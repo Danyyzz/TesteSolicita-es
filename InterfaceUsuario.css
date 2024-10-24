@@ -1,8 +1,0 @@
-body{
-    background-image: url(templates\Background.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    backdrop-filter: blur(3px);
-    height: 100%;
-    margin: 0;
-}
