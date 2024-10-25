@@ -8,10 +8,55 @@ body{
 }
 
 .navbar{
-    background-color: rgb(231, 251, 230);
+    background-color: #e7fbe6;
 }
 
 #LogoNacon > img{
     height: 45px;
     width: 150px;
+}
+
+.containerInformações{
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background: rgb(244,255,243);
+    background: linear-gradient(180deg, rgb(237, 252, 236) 35%, #a9fc92 100%);    
+}
+
+#carousel1{
+    margin: auto;
+    padding: 5px;
+}
+
+.carousel-item > img{
+    border-radius: 10px;
+}
+
+.portlet-head{
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.portlet-body{
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.containerValinho{
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;   
+    margin-bottom: 20px;
+    background-color: #a9fc92;
+}
+
+.btn{
+    margin-top: 20px;
 }
